@@ -21,11 +21,11 @@ Pip (Python Package Installer)
 
 ***Clone the repository***
 
-git clone https://yourrepository.com/yourproject.git
+git clone https://github.com/g-lux/lego-simple-chatbot.git
 
 ***Navigate to the project directory***
 
-cd yourproject
+cd lego-simple-chatbot
 
 ***Install dependencies***
 
